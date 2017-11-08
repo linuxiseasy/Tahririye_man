@@ -67,14 +67,12 @@ Tahririye_man uses jsoup xml parser to parse rss feeds and also load the web art
 
 [![Requirement](https://img.shields.io/badge/android-%3E%3D4.1-orange.svg)]()
 
-# Blog Review
+# LICENSE
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 <h1 align="center">
   <br>
   <a href="http://rezaduty.blog.ir/"><img src="https://raw.githubusercontent.com/rezaduty/Tahririye_man/master/rezaduty.png" alt="Markdownify" width="200"></a>
 
 </h1>
-
-# LICENSE
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
