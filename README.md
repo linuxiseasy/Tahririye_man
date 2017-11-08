@@ -1,10 +1,7 @@
 <h1 align="center">
   <br>
   <a href="http://rezaduty.blog.ir/"><img src="https://raw.githubusercontent.com/rezaduty/Tahririye_man/master/web_hi_res_512.png" alt="Markdownify" width="200"></a>
-
-</h1>
-<p align="center">
-	<a href="https://apkscan.nviso.be/report/show/6286286ec0cbe8c5d6e7c5743858b7a1">
+<a href="https://apkscan.nviso.be/report/show/6286286ec0cbe8c5d6e7c5743858b7a1">
         	<img src="https://img.shields.io/badge/malware%20scan%20result-clean-brightgreen.svg" alt="malware scan">
 	</a>
 	<a href="https://github.com/ellerbrock/open-source-badge/">
@@ -26,8 +23,8 @@
 		<img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="open source">
 	</a>
 
+</h1>
 
-</p>
 
 
 # Tahririye_man
